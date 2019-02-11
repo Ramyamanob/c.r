@@ -1,4 +1,3 @@
-# c.r
 #include<stdio.h>
 int main()
 {
